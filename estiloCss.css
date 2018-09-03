@@ -1,0 +1,37 @@
+h1{
+
+    font-family: Arial;
+    color:red;
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h2{
+    font-family: Arial;
+    color:black;
+}
+
+#inicio{
+
+    font-family: Arial;
+    font-weight: bold;
+ 
+}
+
+#sublinhado{
+
+    text-decoration: underline;
+}
+
+#vermelho{
+
+    color:red;
+
+}
+
+#verde{
+
+    color: #00FF00;
+}
